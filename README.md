@@ -6,10 +6,10 @@
 
 ### Langages de programmation
 
-- **LUA** ⭐⭐⭐⭐[½](https://raw.githubusercontent.com/eirikmadland/notion-icons/master/v5/icon4/mt-star_half.svg)
+- **LUA** ⭐⭐⭐⭐![](https://raw.githubusercontent.com/eirikmadland/notion-icons/master/v5/icon4/mt-star_half.svg)
 - **C# / ASP.NET Core / Blazor Server / .NET7** ⭐⭐⭐
-- **C++98** ⭐⭐[½](https://raw.githubusercontent.com/eirikmadland/notion-icons/master/v5/icon4/mt-star_half.svg)
-- **C** ⭐⭐⭐[½](https://raw.githubusercontent.com/eirikmadland/notion-icons/master/v5/icon4/mt-star_half.svg)
+- **C++98** ⭐⭐![](https://raw.githubusercontent.com/eirikmadland/notion-icons/master/v5/icon4/mt-star_half.svg)
+- **C** ⭐⭐⭐![](https://raw.githubusercontent.com/eirikmadland/notion-icons/master/v5/icon4/mt-star_half.svg)
 
 ### Langues parlées 🌍
 

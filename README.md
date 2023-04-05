@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![42Stats](https://badge42.vercel.app/api/v2/clfqlqdsu002508jvsfhlnrzy/stats?cursusId=67&coalitionId=45)
+![42Stats]([https://badge42.vercel.app/api/v2/clfqlqdsu002508jvsfhlnrzy/stats?cursusId=67&coalitionId=45](https://badge42.vercel.app/api/v2/clfqlqdsu002508jvsfhlnrzy/stats?cursusId=21&coalitionId=piscine))
 
 ## Compétences techniques 💻
 

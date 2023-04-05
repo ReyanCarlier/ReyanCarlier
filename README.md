@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![42Stats](https://badge42.vercel.app/api/v2/clfqlqdsu002508jvsfhlnrzy/stats?cursusId=67&coalitionId=45)]
+
+
 <!--
 **ReyanCarlier/ReyanCarlier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

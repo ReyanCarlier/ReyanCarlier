@@ -15,13 +15,16 @@
 
 - 🇫🇷 **Français** (natif)
 - 🇬🇧 **Anglais** (C1)
-- 🇪🇸 **Espagnol** (Basique)
+- 🇪🇸 **Espagnol** (basique)
 
 ### Projets en vedette 🌟
 
 - **[Projet1](https://github.com/votre_nom_d_utilisateur/projet1)** - Description du projet 1
 - **[Projet2](https://github.com/votre_nom_d_utilisateur/projet2)** - Description du projet 2
 - **[Projet3](https://github.com/votre_nom_d_utilisateur/projet3)** - Description du projet 3
+
+# Codingame's Challenges
+
 
 
 # Cursus 42 Paris

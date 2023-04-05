@@ -26,7 +26,7 @@
 # Cursus 42 Paris
 
 ### Circle 4
-NetPractice <img src="https://badge42.vercel.app/api/v2/clfqlqdsu002508jvsfhlnrzy/project/2909077" alt="100/100" /><br>
+NetPractice : <img src="https://badge42.vercel.app/api/v2/clfqlqdsu002508jvsfhlnrzy/project/2909077" alt="100/100" /><br>
 Cub3D : <img src="https://badge42.vercel.app/api/v2/clfqlqdsu002508jvsfhlnrzy/project/2826824" alt="108/100" /><br>
 Exam : <img src="https://badge42.vercel.app/api/v2/clfqlqdsu002508jvsfhlnrzy/project/2825566" alt="100/100"/>
 

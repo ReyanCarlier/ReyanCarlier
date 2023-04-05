@@ -23,9 +23,7 @@
 - **[Projet2](https://github.com/votre_nom_d_utilisateur/projet2)** - Description du projet 2
 - **[Projet3](https://github.com/votre_nom_d_utilisateur/projet3)** - Description du projet 3
 
-## Cursus 42 Paris
-
-<h2>Common Core Projects :</h2>
+# Cursus 42 Paris
 
 ### Circle 4
 NetPractice <img src="https://badge42.vercel.app/api/v2/clfqlqdsu002508jvsfhlnrzy/project/2909077" alt="100/100" /><br>

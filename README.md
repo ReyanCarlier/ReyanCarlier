@@ -2,7 +2,7 @@
 
 ![42Stats](https://badge42.vercel.app/api/v2/clfqlqdsu002508jvsfhlnrzy/stats?cursusId=21&coalitionId=piscine)
 
-## Compétences techniques 💻
+# Compétences techniques 💻
 
 ### Langages de programmation
 
@@ -11,17 +11,18 @@
 - **C++98** ⭐⭐[½](https://raw.githubusercontent.com/eirikmadland/notion-icons/master/v5/icon4/mt-star_half.svg)
 - **C** ⭐⭐⭐[½](https://raw.githubusercontent.com/eirikmadland/notion-icons/master/v5/icon4/mt-star_half.svg)
 
-## Langues parlées 🌍
+### Langues parlées 🌍
 
 - 🇫🇷 **Français** (natif)
 - 🇬🇧 **Anglais** (C1)
 - 🇪🇸 **Espagnol** (Basique)
 
-## Projets en vedette 🌟
+### Projets en vedette 🌟
 
 - **[Projet1](https://github.com/votre_nom_d_utilisateur/projet1)** - Description du projet 1
 - **[Projet2](https://github.com/votre_nom_d_utilisateur/projet2)** - Description du projet 2
 - **[Projet3](https://github.com/votre_nom_d_utilisateur/projet3)** - Description du projet 3
+
 
 # Cursus 42 Paris
 

@@ -6,10 +6,10 @@
 
 ### Langages de programmation
 
-- **LUA** ⭐⭐⭐⭐⯨
+- **LUA** ⭐⭐⭐⭐
 - **C# / ASP.NET Core / Blazor Server / .NET7** ⭐⭐⭐
-- **C++98** ⭐⭐⯨
-- **C** ⭐⭐⭐⯨
+- **C++98** ⭐⭐⭐
+- **C** ⭐⭐⭐
 
 ### Langues parlées 🌍
 
@@ -17,14 +17,12 @@
 - 🇬🇧 **Anglais** (C1)
 - 🇪🇸 **Espagnol** (basique)
 
-### Projets en vedette 🌟
+# Codingame
 
-- **[Projet1](https://github.com/votre_nom_d_utilisateur/projet1)** - Description du projet 1
-- **[Projet2](https://github.com/votre_nom_d_utilisateur/projet2)** - Description du projet 2
-- **[Projet3](https://github.com/votre_nom_d_utilisateur/projet3)** - Description du projet 3
-
-# Codingame's Challenges
-
+![Profil](https://www.codingame.com/profile/7838f621919df50d987ba5c878885e8e4547384) 
+- ![Spring Challenge 2022](https://www.codingame.com/contests/spring-challenge-2022) [Rank 400/7965] [Top 2 LUA]
+- ![Green Circle, by Société Générale](https://www.codingame.com/contests/green-circle) [Rank 223/1758] [Top 1 LUA]
+- ![Fall Challenge 2022](https://www.codingame.com/contests/fall-challenge-2022) [Rank 429/4577] [Top 1 LUA]
 
 
 # Cursus 42 Paris

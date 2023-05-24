@@ -27,7 +27,7 @@
 
 # CodinGame
 
-Visit my [Profil](https://www.codingame.com/profile/7838f621919df50d987ba5c878885e8e4547384) !
+Visit my [profile](https://www.codingame.com/profile/7838f621919df50d987ba5c878885e8e4547384) !
 
 ### Contests & Challenges
 - [Spring Challenge 2022](https://www.codingame.com/contests/spring-challenge-2022) [Rank 400/7965] [Top 2 LUA]

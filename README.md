@@ -28,18 +28,18 @@
 # Cursus 42 Paris
 
 ### Circle 6
-- Transcendance : 100%
+- [Transcendance](https://github.com/ntantan/ft_transcendence) : 100%
 - Final Exam : [pending]
 
 #### Circle 5
-- ft_irc : 125%
-- Inception : 100%
-- C++ Piscine 2 : 100%
+- [ft_irc](https://github.com/ReyanCarlier/ft_irc) : 125%
+- [Inception](https://github.com/ReyanCarlier/Inception) : 100%
+- [C++ Piscine 2](https://github.com/ReyanCarlier/CPP-Pool) (05 to 09) : 100%
 
 #### Circle 4
-- NetPractice : 100%
-- Cub3D : 100%
-- C++ Piscine 1 : 90%
+- [NetPractice](https://github.com/ReyanCarlier/NetPractice) : 100%
+- [Cube3D](https://github.com/ReyanCarlier/cube3d) : 100%
+- [C++ Piscine 1](https://github.com/ReyanCarlier/CPP-Pool) (00 to 04) : 90%
 - Exam : 100%
 
 #### Circle 3

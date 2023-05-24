@@ -1,31 +1,40 @@
-### Hi there 👋
+### It's nice to see you ! 👋
 
 ![42Stats](https://badge42.vercel.app/api/v2/clfqlqdsu002508jvsfhlnrzy/stats?cursusId=21&coalitionId=piscine)
 
-# Compétences techniques 💻
+# Skills 💻
 
-### Langages de programmation
+### Languages
 
 - **LUA** ⭐⭐⭐⭐
 - **C# / ASP.NET Core / Blazor Server / .NET7** ⭐⭐⭐
 - **C++98** ⭐⭐⭐
 - **C** ⭐⭐⭐
 
-### Langues parlées 🌍
+### Tools
 
-- 🇫🇷 **Français** (natif)
-- 🇬🇧 **Anglais** (C1)
-- 🇪🇸 **Espagnol** (basique)
+- [GitHub](https://github.com)
+- [GitLab](https://gitlab.com)
+- [Docker](https://docker.com)
+- Visual Studio Code
+- Visual Studio 2022 *MacOs*
 
-# Codingame
+### Speaking 🌍
 
-[Profil](https://www.codingame.com/profile/7838f621919df50d987ba5c878885e8e4547384) 
+- 🇫🇷 **French** (native)
+- 🇬🇧 **English** (C1)
+- 🇪🇸 **Spanish** (very basic)
+
+# CodinGame
+
+Visit my [Profil](https://www.codingame.com/profile/7838f621919df50d987ba5c878885e8e4547384) !
+
+### Contests & Challenges
 - [Spring Challenge 2022](https://www.codingame.com/contests/spring-challenge-2022) [Rank 400/7965] [Top 2 LUA]
 - [Green Circle, by Société Générale](https://www.codingame.com/contests/green-circle) [Rank 223/1758] [Top 1 LUA]
 - [Fall Challenge 2022](https://www.codingame.com/contests/fall-challenge-2022) [Rank 429/4577] [Top 1 LUA]
 
-
-# Cursus 42 Paris
+# Cursus @42Paris
 
 ### Circle 6
 - [Transcendance](https://github.com/ntantan/ft_transcendence) : 100%

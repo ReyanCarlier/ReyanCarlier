@@ -38,7 +38,7 @@ Visit my [profile](https://www.codingame.com/profile/7838f621919df50d987ba5c8788
 
 ### Circle 6
 - [Transcendance](https://github.com/ntantan/ft_transcendence) : 100%
-- Final Exam : [pending]
+- Final Exam : 100%
 
 #### Circle 5
 - [ft_irc](https://github.com/ReyanCarlier/ft_irc) : 125%

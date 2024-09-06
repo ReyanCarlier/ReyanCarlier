@@ -12,6 +12,7 @@ Visit my [profile](https://www.codingame.com/profile/7838f621919df50d987ba5c8788
 ### Languages
 
 - **LUA** ⭐⭐⭐
+- **Python** ⭐⭐⭐⭐
 - **C#** *(.NET7 / .NET 8)* ⭐⭐⭐⭐
 - **Blazor Server|WASM / Razor** ⭐⭐⭐⭐
 - **C** ⭐⭐⭐⭐

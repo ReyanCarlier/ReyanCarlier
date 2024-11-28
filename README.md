@@ -16,7 +16,7 @@ Visit my [profile](https://www.codingame.com/profile/7838f621919df50d987ba5c8788
 - **C#** *(.NET7 / .NET 8)* ⭐⭐⭐⭐
 - **Blazor Server|WASM / Razor** ⭐⭐⭐⭐
 - **C** ⭐⭐⭐⭐
-- **ASP.NET Core** ⭐⭐⭐
+- **ASP.NET Core** ⭐⭐⭐⭐
 - **Solidity** ⭐⭐⭐
 - **C++98** ⭐⭐⭐
 
